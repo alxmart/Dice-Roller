@@ -1,2 +1,2 @@
 # Dice-Roller
-Android Kotlin App developed as exercise from Udacity's course " Developing Android Apps With Kotlin" .
+Android Kotlin App developed as exercise from Udacity's course "Developing Android Apps With Kotlin" .
